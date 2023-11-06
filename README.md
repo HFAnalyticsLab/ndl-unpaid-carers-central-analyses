@@ -13,11 +13,11 @@
 
 This repository includes two separate folders:
 
-**NDL analysis**
+**NDL lab analysis**
 
 
 
-**Data ssharing agreements**
+**Data sharing agreements**
 
 
 

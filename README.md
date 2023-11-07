@@ -36,13 +36,13 @@ We compared the number of carers identified in local GP and local authority data
 
 ## Partners 
 
-** NDL North West London 
+* NDL North West London 
 
-** NDL Cheshire and Merseyside 
+* NDL Cheshire and Merseyside 
 
-** NDL Wales 
+* NDL Wales 
 
-** NDL West Yorkshire 
+* NDL West Yorkshire 
 
 For a full list of organisations and individuals involved from each partner site, please see our [publication](https://www.health.org.uk/publications/long-reads/can-you-tell-we-care). 
  
